@@ -1,0 +1,16 @@
+{
+  "name": "school_management_system",
+  "version": "1.0.0",
+  "description": "A School Management System is a comprehensive software solution designed to streamline and automate various administrative and academic tasks within an educational institution. It typically includes modules for student management, teacher management, course management, attendance tracking, grade management, timetable scheduling, communication, and more. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "pg": "^8.11.2"
+  }
+}
